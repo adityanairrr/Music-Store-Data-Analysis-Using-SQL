@@ -4,3 +4,4 @@ This project involved a comprehensive analysis of an music store's database usin
 
 # Schema
 
+![Database Schema](https://github.com/adityanairrr/Music-Store-Data-Analysis-Using-SQL/blob/main/0_4IES49rl2zTeF3cy.jpg)
