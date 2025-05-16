@@ -8,7 +8,7 @@ This project involved a comprehensive analysis of an music store's database usin
 
 # Business Questions
 
-Q1: Who is the senior most employee based on job title? 
+Q1: Who is the senior most employee based on job title?   
 Q2: Which countries have the most Invoices? 
 Q3: Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most money. Write a query that returns one city that has the highest sum of invoice totals.
 Q4: Who is the best customer? The customer who has spent the most money will be declared the best customer. Write a query that returns the person who has spent the most money.
